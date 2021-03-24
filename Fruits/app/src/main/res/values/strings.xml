@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Fruits</string>
+    <string name="btn_label">Touch me</string>
+</resources>
