@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">How is the weather</string>
+    <string name="current_text">Current</string>
+    <string name="min_text">Min</string>
+    <string name="max_text">Max</string>
+    <string name="weather_text">Weather</string>
+    <string name="current_publicated">Current Weather</string>
+    <string name="min_publicated">Min Weather</string>
+    <string name="max_publicated">Max Weather</string>
+    <string name="weather_publicated">Weather Val</string>
+    <string name="button_text">Search Weather</string>
+    <string name="example">Ex: Cali,CO</string>
+</resources>

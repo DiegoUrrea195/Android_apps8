@@ -87,4 +87,16 @@
 
     </LinearLayout>
 
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:layout_editor_absoluteX="198dp"
+        tools:layout_editor_absoluteY="585dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" />
+    </ScrollView>
+
 </androidx.constraintlayout.widget.ConstraintLayout>

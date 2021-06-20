@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Como esta el clima ?</string>
+    <string name="current_text">Actual</string>
+    <string name="min_text">Minimo</string>
+    <string name="max_text">Maximo</string>
+    <string name="weather_text">Clima</string>
+    <string name="current_publicated">Clima Actual</string>
+    <string name="min_publicated">Clima Minimo</string>
+    <string name="max_publicated">Clima Maximo</string>
+    <string name="weather_publicated">Valor Tiempo</string>
+    <string name="button_text">Buscar Clima</string>
+    <string name="example">Eje: Cali,CO</string>
+</resources>
